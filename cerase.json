@@ -4,6 +4,6 @@
   "name": "email-drafting",
   "type": "skill",
   "display_name": "Email drafting",
-  "description": "Redige bozze di email professionali in italiano. Usa questa skill quando il collega chiede \"scrivi una mail a...\", \"rispondi a...\", \"manda una comunicazione su...\" anche se non nomina esplicitamente l'email.",
+  "description": "Drafts professional emails in Italian. Use this skill when a colleague asks to \"write an email to...\", \"reply to...\", \"send a communication about...\", even without mentioning email explicitly.",
   "license": "MIT"
 }
