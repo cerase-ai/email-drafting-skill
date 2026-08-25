@@ -1,13 +1,13 @@
 ---
 name: email-drafting
-description: Redige bozze di email professionali in italiano. Usa questa skill quando il collega chiede "scrivi una mail a...", "rispondi a...", "manda una comunicazione su..." anche se non nomina esplicitamente l'email.
+description: "Drafts professional email in Italian. Use it when the colleague wants a message that will be SENT as email — \"scrivi una mail a...\", \"rispondi a questa mail...\", \"manda una comunicazione su...\" — including when they describe the message without using the word email. Not for a reply that stays inside a chat, where an email-shaped draft is the wrong artefact."
 ---
 
 # Email drafting
 
-Quando devi redigere una bozza di email, segui questa struttura.
+Follow this structure whenever you draft an email.
 
-## Struttura
+## Structure
 
 ```
 Oggetto: [conciso, max 60 caratteri, primo verbo all'imperativo o sostantivo concreto — evita "Re:", "Update", "Aggiornamento"]
@@ -24,20 +24,20 @@ Cordiali saluti,
 [Nome firma]
 ```
 
-## Formattazione e a capo
+## Line breaks
 
-- Un paragrafo è **una riga continua**: non spezzare mai una frase con un a capo manuale a metà. L'andata a capo dentro un paragrafo la fa il client di posta, non tu.
-- Separa i blocchi (saluto, paragrafi, CTA, firma) con **una riga vuota**: la riga vuota è l'unico "a capo" che inserisci di tua iniziativa.
-- In un elenco puntato ogni voce sta sulla propria riga, ma il testo della singola voce resta su una riga sola.
-- Niente hard wrap a larghezza fissa (72/80 colonne): scrivi il paragrafo per intero e lascia che si adatti alla finestra del destinatario.
+- A paragraph is ONE continuous line. Never split a sentence with a manual line break halfway through: the wrapping inside a paragraph is the mail client's job, not yours.
+- Separate the blocks — greeting, paragraphs, call to action, signature — with ONE blank line. That blank line is the only break you insert yourself.
+- In a bulleted list each item starts on its own line, and the text of a single item stays on one line.
+- No hard wrap at a fixed width. Write the paragraph whole and let it fit the recipient's window.
 
-## Regole rapide
+## Quick rules
 
-- Mai più di 150 parole salvo richiesta esplicita di lunghezza maggiore.
-- Frasi attive, soggetto esplicito.
-- Niente abbreviazioni gergali ("asap", "fyi", "btw").
-- Se la comunicazione è urgente, usa "entro [data esatta]" e non "il prima possibile".
+- Never more than 150 words unless a longer text was asked for explicitly.
+- Active sentences, explicit subject.
+- No slang abbreviations: "asap", "fyi", "btw".
+- When the message is urgent, write "entro [data esatta]" and not "il prima possibile".
 
-## Quando ti chiedono solo l'idea
+## When they only want the wording
 
-Quando il collega ti chiede solo come dire una cosa ("come glielo dico che abbiamo finito il pezzo X?"), proponi 2 alternative — una più formale e una più calorosa — e lascia che scelga.
+When the colleague asks only how to say something — "come glielo dico che abbiamo finito il pezzo X?" — offer two alternatives, one more formal and one warmer, and let them choose.
