@@ -1,6 +1,6 @@
 ---
 name: email-drafting
-description: "Drafts professional email in Italian. Use it when the colleague wants a message that will be SENT as email — \"scrivi una mail a...\", \"rispondi a questa mail...\", \"manda una comunicazione su...\" — including when they describe the message without using the word email. Not for a reply that stays inside a chat, where an email-shaped draft is the wrong artefact."
+description: "Drafts a professional email. Use it when the colleague wants a message that will be SENT as email — \"write an email to...\", \"reply to this email...\", \"send a note about...\" — including when they describe the message without using the word email. Not for a reply that stays inside a chat, where an email-shaped draft is the wrong artefact."
 ---
 
 # Email drafting
@@ -10,18 +10,18 @@ Follow this structure whenever you draft an email.
 ## Structure
 
 ```
-Oggetto: [conciso, max 60 caratteri, primo verbo all'imperativo o sostantivo concreto — evita "Re:", "Update", "Aggiornamento"]
+Subject: [concise, max 60 characters, first verb in the imperative or a concrete noun — avoid "Re:", "Update"]
 
-Gentile [Nome] / Buongiorno [Nome],
+Dear [Name] / Good morning [Name],
 
-[1 frase di contesto — perché stai scrivendo]
+[1 sentence of context — why you are writing]
 
-[Corpo: 1-3 paragrafi brevi. Una sola idea per paragrafo. Bullet list solo se serve elencare più di 3 cose.]
+[Body: 1-3 short paragraphs. One single idea per paragraph. Bullet list only if you need to list more than 3 things.]
 
-[Eventuale call-to-action: che azione ti aspetti dal destinatario]
+[Call to action if any: what action you expect from the recipient]
 
-Cordiali saluti,
-[Nome firma]
+Kind regards,
+[Signature name]
 ```
 
 ## Line breaks
@@ -36,8 +36,8 @@ Cordiali saluti,
 - Never more than 150 words unless a longer text was asked for explicitly.
 - Active sentences, explicit subject.
 - No slang abbreviations: "asap", "fyi", "btw".
-- When the message is urgent, write "entro [data esatta]" and not "il prima possibile".
+- When the message is urgent, write "by [exact date]" and not "as soon as possible".
 
 ## When they only want the wording
 
-When the colleague asks only how to say something — "come glielo dico che abbiamo finito il pezzo X?" — offer two alternatives, one more formal and one warmer, and let them choose.
+When the colleague asks only how to say something — "how do I tell them we've finished part X?" — offer two alternatives, one more formal and one warmer, and let them choose.
