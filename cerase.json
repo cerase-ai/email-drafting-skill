@@ -4,6 +4,6 @@
   "name": "email-drafting",
   "type": "skill",
   "display_name": "Email drafting",
-  "description": "Drafts professional emails in Italian. Use this skill when a colleague asks to \"write an email to...\", \"reply to...\", \"send a communication about...\", even without mentioning email explicitly.",
+  "description": "Drafts a professional email. Use it when the colleague wants a message that will be SENT as email — \"write an email to...\", \"reply to this email...\", \"send a note about...\" — including when they describe the message without using the word email. Not for a reply that stays inside a chat, where an email-shaped draft is the wrong artefact.",
   "license": "MIT"
 }
