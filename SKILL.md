@@ -36,6 +36,12 @@ Kind regards,
 - Write each link on the words it belongs to, as `[words](url)`: the mail goes out as HTML with a plain-text part, and the link sits on those words. Never write a bare address after the words it belongs to.
 - A mail you read shows each of its links as `[words](url)`, on the words it was on. When you copy, quote or forward its text, keep every link on the same words.
 
+## Replies
+
+- A reply goes to everyone the mail went to, its sender and everyone in To and Cc, in the mail's conversation: send it with the reply tool of the mailbox the mail arrived in, which finds those people itself.
+- Leave someone out only when the colleague asks for it, by naming them in `exclude`. Add someone the mail did not reach with `to` or `cc`.
+- The reply tool writes the subject as the mail's own with its reply prefix, so a reply needs no subject of its own.
+
 ## Quick rules
 
 - Never more than 150 words unless a longer text was asked for explicitly.
