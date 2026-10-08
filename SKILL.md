@@ -31,6 +31,11 @@ Kind regards,
 - In a bulleted list each item starts on its own line, and the text of a single item stays on one line.
 - No hard wrap at a fixed width. Write the paragraph whole and let it fit the recipient's window.
 
+## Links
+
+- Write each link on the words it belongs to, as `[words](url)`: the mail goes out as HTML with a plain-text part, and the link sits on those words. Never write a bare address after the words it belongs to.
+- A mail you read shows each of its links as `[words](url)`, on the words it was on. When you copy, quote or forward its text, keep every link on the same words.
+
 ## Quick rules
 
 - Never more than 150 words unless a longer text was asked for explicitly.
