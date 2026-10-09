@@ -21,7 +21,7 @@ Dear [Name] / Good morning [Name],
 [Call to action if any: what action you expect from the recipient]
 
 Kind regards,
-[Signature name]
+[Signature: the name of the mailbox the mail leaves from — yours from your own, the person's from theirs]
 ```
 
 ## Line breaks

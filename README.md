@@ -11,8 +11,10 @@ without saying "email". It does not apply to a reply that stays in the chat.
 - Writes a subject of at most 60 characters that opens with an imperative verb
   or a concrete noun, never "Re:" or "Update".
 - Builds the message as greeting, one sentence of context, one to three short
-  paragraphs with one idea each, an optional call to action, and a sign-off.
-  Bullet lists only for more than three items.
+  paragraphs with one idea each, an optional call to action, and a sign-off
+  with the name of the mailbox the mail leaves from: the assistant's own from
+  its mailbox, the person's from theirs. Bullet lists only for more than three
+  items.
 - Keeps each paragraph on one line, with no manual line breaks inside it, and
   separates the blocks with a single blank line, so the recipient's mail client
   does the wrapping.
